@@ -48,7 +48,7 @@
 
 // Create a variable called num. Check if the number is a palindrome (looks the same forward as it does backwards e.g. 1001 or 20202).
 
-// JSActivity 7:
+// Activity 7:
 // Create a variable called time, a variable called placeOfWorkand a variable called townOfHome. Create an if statement that logs to the console where someone is at times of the day. E.g. if the time is 7 I’m at home, at 8 I’m commuting, at 9 I’m at work.
 
 // Activity 8:
@@ -56,7 +56,7 @@
 // Take the string: “jrfndklhgfndjkjlkgper jfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi”. Find the
 // index of a last vowel in the string.
 
-// JSActivity 9:
+// Activity 9:
 
 // Create a variable called word that takes a string. Create an if statement that checks if the last letter is the same as the rst. If it is return true, otherwise return false.
 
